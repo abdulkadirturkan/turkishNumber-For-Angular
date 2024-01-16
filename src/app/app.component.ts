@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'turkishNumber';
+  number1 = 1000.5;
+  number2 = 53125.17;
+  number3 = 639712341;
 }
